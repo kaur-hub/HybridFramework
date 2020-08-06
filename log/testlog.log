@@ -1,0 +1,180 @@
+2020-08-05 17:56:05,011 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-05 17:56:05,082 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-05 17:56:10,353 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-05 17:56:10,466 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-05 17:56:14,895 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-05 17:56:14,967 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-05 17:56:19,327 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-05 17:56:19,383 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-05 17:56:23,144 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-05 17:56:23,201 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-05 18:06:58,824 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-05 18:06:58,894 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-05 18:07:07,202 - com.netBanking.Testcase.BaseClass -INFO - login passed
+2020-08-05 18:07:07,929 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-05 18:07:08,042 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-05 18:07:17,569 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-05 18:07:17,632 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-05 18:07:21,679 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-05 18:07:21,803 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-05 18:09:25,645 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-05 18:09:25,759 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-05 18:09:40,637 - com.netBanking.Testcase.BaseClass -INFO - login passed
+2020-08-05 18:09:41,823 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-05 18:09:41,964 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-05 18:09:51,088 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-05 18:09:51,145 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-05 18:10:01,539 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-05 18:10:01,622 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-05 18:10:08,239 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-05 18:10:08,294 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-05 18:10:27,948 - com.netBanking.Testcase.BaseClass -INFO - login passed
+2020-08-06 08:58:17,982 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-06 08:58:18,190 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-06 08:58:18,372 - com.netBanking.Testcase.BaseClass -INFO - Click on submit button
+2020-08-06 08:58:19,547 - com.netBanking.Testcase.BaseClass -INFO - Providing Customers details-------
+2020-08-06 09:03:03,572 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-06 09:03:04,145 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-06 09:03:04,318 - com.netBanking.Testcase.BaseClass -INFO - Click on submit button
+2020-08-06 09:03:05,976 - com.netBanking.Testcase.BaseClass -INFO - Providing Customers details-------
+2020-08-06 09:06:13,729 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-06 09:06:13,831 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-06 09:06:13,898 - com.netBanking.Testcase.BaseClass -INFO - Click on submit button
+2020-08-06 09:06:14,741 - com.netBanking.Testcase.BaseClass -INFO - Providing Customers details-------
+2020-08-06 09:16:27,248 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-06 09:16:27,506 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-06 09:16:28,516 - com.netBanking.Testcase.BaseClass -INFO - Click on submit button
+2020-08-06 09:16:29,110 - com.netBanking.Testcase.BaseClass -INFO - Providing Customers details-------
+2020-08-06 09:16:36,484 - com.netBanking.Testcase.BaseClass -INFO - Validating the page-----------
+2020-08-06 09:19:38,076 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-06 09:19:38,292 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-06 09:19:38,914 - com.netBanking.Testcase.BaseClass -INFO - Click on submit button
+2020-08-06 09:19:39,262 - com.netBanking.Testcase.BaseClass -INFO - Providing Customers details-------
+2020-08-06 09:19:46,130 - com.netBanking.Testcase.BaseClass -INFO - Validating the page-----------
+2020-08-06 09:24:44,712 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-06 09:24:44,778 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-06 09:24:45,209 - com.netBanking.Testcase.BaseClass -INFO - Click on submit button
+2020-08-06 09:24:46,098 - com.netBanking.Testcase.BaseClass -INFO - Providing Customers details-------
+2020-08-06 09:24:53,409 - com.netBanking.Testcase.BaseClass -INFO - Validating the page-----------
+2020-08-06 09:30:27,598 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-06 09:30:27,713 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-06 09:30:28,203 - com.netBanking.Testcase.BaseClass -INFO - Click on submit button
+2020-08-06 09:30:29,350 - com.netBanking.Testcase.BaseClass -INFO - Providing Customers details-------
+2020-08-06 09:30:36,907 - com.netBanking.Testcase.BaseClass -INFO - Validating the page-----------
+2020-08-06 11:58:28,811 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-06 11:58:28,992 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-06 11:58:29,283 - com.netBanking.Testcase.BaseClass -INFO - Click on submit button
+2020-08-06 11:58:30,251 - com.netBanking.Testcase.BaseClass -INFO - Providing Customers details-------
+2020-08-06 11:58:37,940 - com.netBanking.Testcase.BaseClass -INFO - Validating the page-----------
+2020-08-06 12:01:12,984 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-06 12:01:13,218 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-06 12:01:14,586 - com.netBanking.Testcase.BaseClass -INFO - Click on submit button
+2020-08-06 12:01:16,396 - com.netBanking.Testcase.BaseClass -INFO - Providing Customers details-------
+2020-08-06 12:01:24,404 - com.netBanking.Testcase.BaseClass -INFO - Validating the page-----------
+2020-08-06 12:01:24,486 - com.netBanking.Testcase.BaseClass -INFO - test case passed....
+2020-08-06 12:07:05,913 - com.netBanking.Testcase.BaseClass -INFO - url is opened
+2020-08-06 12:07:06,030 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-06 12:07:06,151 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-06 12:07:07,126 - com.netBanking.Testcase.BaseClass -INFO - Click on submit button
+2020-08-06 12:07:07,133 - com.netBanking.Testcase.BaseClass -INFO - login test passed
+2020-08-06 12:07:17,032 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-06 12:07:17,115 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-06 12:07:24,217 - com.netBanking.Testcase.BaseClass -INFO - login passed
+2020-08-06 12:07:24,949 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-06 12:07:25,148 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-06 12:07:29,151 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-06 12:07:29,216 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-06 12:07:33,542 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-06 12:07:33,773 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-06 12:07:37,907 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-06 12:07:38,012 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-06 12:07:45,438 - com.netBanking.Testcase.BaseClass -INFO - login passed
+2020-08-06 12:07:54,224 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-06 12:07:54,559 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-06 12:07:54,787 - com.netBanking.Testcase.BaseClass -INFO - Click on submit button
+2020-08-06 12:07:55,587 - com.netBanking.Testcase.BaseClass -INFO - Providing Customers details-------
+2020-08-06 12:08:03,702 - com.netBanking.Testcase.BaseClass -INFO - Validating the page-----------
+2020-08-06 12:09:47,734 - com.netBanking.Testcase.BaseClass -INFO - url is opened
+2020-08-06 12:09:47,879 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-06 12:09:48,048 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-06 12:09:48,578 - com.netBanking.Testcase.BaseClass -INFO - Click on submit button
+2020-08-06 12:09:48,618 - com.netBanking.Testcase.BaseClass -INFO - login test passed
+2020-08-06 12:09:58,370 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-06 12:09:58,444 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-06 12:10:05,104 - com.netBanking.Testcase.BaseClass -INFO - login passed
+2020-08-06 12:10:05,940 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-06 12:10:06,049 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-06 12:10:10,123 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-06 12:10:10,312 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-06 12:10:14,353 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-06 12:10:14,449 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-06 12:10:18,612 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-06 12:10:18,719 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-06 12:10:25,968 - com.netBanking.Testcase.BaseClass -INFO - login passed
+2020-08-06 12:10:35,041 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-06 12:10:35,301 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-06 12:10:35,761 - com.netBanking.Testcase.BaseClass -INFO - Click on submit button
+2020-08-06 12:10:36,857 - com.netBanking.Testcase.BaseClass -INFO - Providing Customers details-------
+2020-08-06 12:10:44,723 - com.netBanking.Testcase.BaseClass -INFO - Validating the page-----------
+2020-08-06 12:10:44,741 - com.netBanking.Testcase.BaseClass -INFO - test case passed....
+2020-08-06 12:15:07,060 - com.netBanking.Testcase.BaseClass -INFO - url is opened
+2020-08-06 12:15:07,191 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-06 12:15:07,313 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-06 12:15:07,684 - com.netBanking.Testcase.BaseClass -INFO - Click on submit button
+2020-08-06 12:15:07,886 - com.netBanking.Testcase.BaseClass -INFO - login test passed
+2020-08-06 12:15:18,308 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-06 12:15:18,378 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-06 12:15:25,470 - com.netBanking.Testcase.BaseClass -INFO - login passed
+2020-08-06 12:15:26,009 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-06 12:15:26,104 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-06 12:15:30,120 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-06 12:15:30,220 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-06 12:15:34,271 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-06 12:15:34,331 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-06 12:15:38,347 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-06 12:15:38,480 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-06 12:15:45,813 - com.netBanking.Testcase.BaseClass -INFO - login passed
+2020-08-06 12:15:55,002 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-06 12:15:55,163 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-06 12:15:56,192 - com.netBanking.Testcase.BaseClass -INFO - Click on submit button
+2020-08-06 12:15:56,606 - com.netBanking.Testcase.BaseClass -INFO - Providing Customers details-------
+2020-08-06 12:16:05,353 - com.netBanking.Testcase.BaseClass -INFO - Validating the page-----------
+2020-08-06 12:16:05,421 - com.netBanking.Testcase.BaseClass -INFO - test case passed....
+2020-08-06 12:24:17,594 - com.netBanking.Testcase.BaseClass -INFO - url is opened
+2020-08-06 12:24:17,832 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-06 12:24:18,167 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-06 12:24:18,504 - com.netBanking.Testcase.BaseClass -INFO - Click on submit button
+2020-08-06 12:24:29,182 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-06 12:24:29,277 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-06 12:24:36,451 - com.netBanking.Testcase.BaseClass -INFO - login passed
+2020-08-06 12:24:37,325 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-06 12:24:37,464 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-06 12:24:41,409 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-06 12:24:41,624 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-06 12:24:45,808 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-06 12:24:45,896 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-06 12:24:49,989 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-06 12:24:50,060 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-06 12:24:57,222 - com.netBanking.Testcase.BaseClass -INFO - login passed
+2020-08-06 12:25:06,617 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-06 12:25:06,737 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-06 12:25:07,999 - com.netBanking.Testcase.BaseClass -INFO - Click on submit button
+2020-08-06 12:25:08,388 - com.netBanking.Testcase.BaseClass -INFO - Providing Customers details-------
+2020-08-06 12:25:16,365 - com.netBanking.Testcase.BaseClass -INFO - Validating the page-----------
+2020-08-06 12:25:16,393 - com.netBanking.Testcase.BaseClass -INFO - test case passed....
+2020-08-06 13:02:40,521 - com.netBanking.Testcase.BaseClass -INFO - url is opened
+2020-08-06 13:02:40,648 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-06 13:02:40,735 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-06 13:02:41,320 - com.netBanking.Testcase.BaseClass -INFO - Click on submit button
+2020-08-06 13:02:41,328 - com.netBanking.Testcase.BaseClass -INFO - login test passed
+2020-08-06 13:02:51,794 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-06 13:02:51,866 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-06 13:02:56,014 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-06 13:02:56,142 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-06 13:03:00,417 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-06 13:03:00,560 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-06 13:03:12,921 - com.netBanking.Testcase.BaseClass -INFO - url is opened
+2020-08-06 13:03:13,046 - com.netBanking.Testcase.BaseClass -INFO - Entered username
+2020-08-06 13:03:13,111 - com.netBanking.Testcase.BaseClass -INFO - Entered password
+2020-08-06 13:03:13,823 - com.netBanking.Testcase.BaseClass -INFO - Click on submit button
+2020-08-06 13:03:13,851 - com.netBanking.Testcase.BaseClass -INFO - login test passed

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Failed suite [netBankingV1]]">
+  <parameter name="browser" value="chrome"/>
+  <listeners>
+    <listener class-name="com.netBanking.Utilties.Reporting"/>
+  </listeners>
+  <test thread-count="4" name="BankingAppTest">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.netBanking.Testcase.TC_LoginTest_001"/>
+    </classes>
+  </test> <!-- BankingAppTest -->
+  <test name="BankingAppTest(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.netBanking.Testcase.TC_LoginDDTest_002">
+        <methods>
+          <include name="tearDown"/>
+          <include name="LoginDDT" invocation-numbers="1 2 3"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.netBanking.Testcase.TC_LoginDDTest_002 -->
+      <class name="com.netBanking.Testcase.TC_LoginTest_001">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="loginTest"/>
+        </methods>
+      </class> <!-- com.netBanking.Testcase.TC_LoginTest_001 -->
+      <class name="com.netBanking.Testcase.TC_AddCustomerName_003">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.netBanking.Testcase.TC_AddCustomerName_003 -->
+    </classes>
+  </test> <!-- BankingAppTest(failed) -->
+  <test name="BankingAppTest(failed)(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.netBanking.Testcase.TC_LoginTest_001">
+        <methods>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.netBanking.Testcase.TC_LoginTest_001 -->
+      <class name="com.netBanking.Testcase.TC_LoginDDTest_002">
+        <methods>
+          <include name="tearDown"/>
+          <include name="LoginDDT" invocation-numbers="0 1 2"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.netBanking.Testcase.TC_LoginDDTest_002 -->
+    </classes>
+  </test> <!-- BankingAppTest(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [netBankingV1]] -->
